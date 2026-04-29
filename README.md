@@ -31,8 +31,7 @@ This project applies unsupervised learning methods to Manhattan 311 service requ
 
 ```
 ├── RQ1_Major_Complaint_Themes.ipynb
-├── RQ2_Community_Profiles
-├── RQ3_Differences_in_Response_Time
+├── RQ2+3.ipynb
 ├── README.md             
 └── 5205_final_report.docx  # Final written report
 ```
